@@ -4,13 +4,34 @@
 
 using namespace std;
 
-void Construirtablero();
-int Lanzardado();
-bool Jugaryo();
-bool Jugaroponente();
-bool Finpartida();
+void ConstruirTablero();
+int LanzarDado();
+bool JugarYo();
+bool JugarOponente();
+bool Finartida();
 
 int main(){
     cout<<"HELLO!"<<endl;
     return 0;
 }
+
+void ConstruirTablero(){
+
+}
+
+int LanzarDado(){
+
+}
+
+bool JugarYo(){
+
+}
+
+bool JugarOponente(){
+
+}
+
+bool Finartida(){
+
+}
+
