@@ -1,4 +1,4 @@
-define TABLERO_H
+#define TABLERO_H
 #include <iostream>
 #include <string>
 #include <list>
@@ -22,4 +22,4 @@ public:
   void Setdado(Dado dado);
 
     
-}
+};

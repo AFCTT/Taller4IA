@@ -1,4 +1,4 @@
-define DADO_H
+#define DADO_H
 #include <iostream>
 
 
@@ -13,4 +13,4 @@ public:
   int obtenernumero();
   void setnumero(int numero);
 
-}
+};

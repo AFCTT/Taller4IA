@@ -1,4 +1,4 @@
-define AGUJA_H
+#define AGUJA_H
 #include <iostream>
 #include <list>
 #include "bola.h"
@@ -16,4 +16,4 @@ public:
   list<Bola> Obtenerbolas();
   void Setbolas(Bola bola);
 
-}
+};

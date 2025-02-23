@@ -1,4 +1,4 @@
-define BOLA_H
+#define BOLA_H
 #include <iostream>
 #include <string>
 #include <list>
@@ -16,4 +16,4 @@ public:
   string getestado();
   void setestado(string estado);
 
-}
+};
